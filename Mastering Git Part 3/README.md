@@ -1,5 +1,5 @@
-##Mastering Git
-##Part 3: Navigating Git-Unraveling Commits and Branches
+## **Mastering Git**
+## **Part 3: Navigating Git-Unraveling Commits and Branches**
 
 ![Alt text](<images/Mastering git 3.drawio.png>)
 
