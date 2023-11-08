@@ -1,6 +1,6 @@
 ## MASTERING GIT :
 
-## **Project Title: Implementation Of Git Repositories For Application And Infrastructure Code Using AWS Code Commit + Proof Of Concept (POC) Process Of Commit, Push And Revert Code Changes**
+## **Project Title: Implementation Of Git Repositories For Application And Infrastructure Code Using AWS Code Commit**
 
 ![Alt text](images/devops.drawio.png)
 
@@ -8,9 +8,9 @@
 Throughout our Mastering Git journey, we've embarked on an incredible learning adventure, spanning from the fundamentals of Git to practical implementation on AWS CodeCommit. Now, let's take a deep dive into our final project, where we put our knowledge to the test. Buckle up, because this is where theory meets practice!
 
 **Project description**
-In this project based on a real-world scenario, I implemented Git repositories for application and infrastructure code using AWS CodeCommit, and got hands-on experience with the Proof of Concept (PoC) process of commit, push, and revert code changes. 
+In this project based on a real-world scenario, I implemented Git repositories for application and infrastructure code using AWS CodeCommit and got hands-on experience with the Proof of Concept (PoC) process of committing, pushing, and reverting code changes. 
 
-My mission was to set up a Git repository using AWS CodeCommit for HumanGov, a hypothetical Software as a Service for government organization. 
+My mission was to set up a Git repository using AWS CodeCommit for HumanGov, a hypothetical Software as a Service for government organizations. 
 
 ![Alt text](<images/git project architecture.drawio.png>)
 
